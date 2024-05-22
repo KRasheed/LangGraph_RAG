@@ -8,7 +8,7 @@ This repository contains code for performing Retrieval-Augmented Generation (RAG
 - **Answer Generation:** Generate answers using LLMs based on the retrieved documents.
 - **Document Relevance Assessment:** Grade the relevance of documents to improve retrieval accuracy.
 - **Caching Mechanisms:** Efficient caching and management of document data.
-- 
+  
 **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/retrieval-augmented-generation.git
